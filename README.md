@@ -8,6 +8,7 @@
   </td>
   <td>
   
+   - SuperUser [ login `BookAdmin` password : `BookAdmin` ]
    - `Download, Upload, Review etc.`
    - befor you start first you should create `Envirment`
    - all `requirment` Packges is in `requrment.txt`.
